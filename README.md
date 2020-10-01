@@ -1,4 +1,4 @@
-# SocketMongoChat Server (Websocket Chat Server)
+# SocketMongoChat-main Server (Websocket Chat Server)
 
 This is experimental project for showcasing the power of Websockets in realtime communication with server.
 This is only a server part of whole application . To learn the client interface of
